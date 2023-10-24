@@ -26,6 +26,7 @@ Alexandre SCORDILIS - Tenzin CHOEZIN GYASHETSANG - Oscar CORTIJOS - Ghislaine AY
 
 - [x] modification de la police et de la taille de tous les titres (balises h),
 - [x] création d'un dictionnaire (fichier json) de mots / traductions / définitions,
+- [x] mise en place d'une requête HTTP GET vers une URL locale (dictionnaire json),
 - [x] mise en place d'une regex pour identifier les mots de la page web présents dans notre json (difficulté : les mots présents à l'intérieur des balises ne doivent pas être remplacés),
 - [x] modification de la police et de la couleur des mots remplacés sur la page web,
 - [x] mise en place d'info-bulles qui affichent la définition du mot au survol des mots "traduits",
