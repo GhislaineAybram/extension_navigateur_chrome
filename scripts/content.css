@@ -24,10 +24,11 @@ span.popup {
     color: red;
     font-family: "Streetbomber";
     font-size: 1.8em;
+    line-height: 1em;
 }
 
 span.popup:hover {
-    color: blue;
+    color: #6d071a;
 }
 
 [data-title]:hover:after {
@@ -39,6 +40,7 @@ span.popup:hover {
 
 [data-title]:after {
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
     content: attr(data-title);
     position: absolute;
     bottom: -1.6em;

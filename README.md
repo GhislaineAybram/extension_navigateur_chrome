@@ -13,10 +13,10 @@ Alexandre SCORDILIS - Tenzin CHOEZIN GYASHETSANG - Oscar CORTIJOS - Ghislaine AY
 ## Aperçu du projet
 
 *AVANT : une page web*
-![App Screenshot](/screen/)
+![App Screenshot](/screen/page_wikipedia_avant.jpg)
 
 *APRES : une page web "traduite" en langage de "jeunes" grâce à Jouvence*
-![App Screenshot](/screen/)
+![App Screenshot](/screen/page_wikipedia_apres.jpg)
 
 ## Tech Stack
 
@@ -33,10 +33,6 @@ Alexandre SCORDILIS - Tenzin CHOEZIN GYASHETSANG - Oscar CORTIJOS - Ghislaine AY
 - [x] ajout d'un bouton on/off pour activer ou désactiver l'extension,
 - [x] lancement d'une musique lors de l'activation de l'extension (bouton on),
 
-## Fonctionnalité ajoutée par la suite
-
-- [x] remplacement / ajout d'une image de fond sur la page web,
-
 ## Reste à implémenter
 
-- [ ] une version de l'extension avec un dictionnaire de mots désuets ;)
+- [ ] une version de l'extension avec un dictionnaire de mots désuets pour apprendre des mots de vocabulaire.
